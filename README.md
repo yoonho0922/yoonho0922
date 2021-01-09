@@ -11,8 +11,8 @@ Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/ma
 
 > 💻 Interest -  BackEnd Development, OOP, Design Pattern
 >
-> 🔥 present - study Node.js, organaize Computer Science, practice Algorithm
+> 🔥 Present - study Node.js, organaize Computer Science, practice Algorithm
 >
-> 👍 experience - Meteor Web project, Androidstudio App project, Python AI project
+> 👍 Experience - Meteor Web project, Androidstudio App project, Python AI project
 
 
