@@ -6,9 +6,6 @@ Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/ma
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/yoonho-ahn-30baa5203/)](https://www.linkedin.com/in/yoonho-ahn-30baa5203/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yoon_nno/)](https://www.instagram.com/yoon_nno/) 
 
-[![Yoonho's github stats](https://github-readme-stats.vercel.app/api?username=Yoonho0922)](https://github.com/anuraghazra/github-readme-stats)
-
-
 > 💻 Interest -  BackEnd Development, OOP, Design Pattern
 >
 > 🔥 Present - study Node.js, organaize Computer Science, practice Algorithm
