@@ -8,7 +8,7 @@ Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/ma
 
 > 💻 Interest -  BackEnd Development
 >
-> 🔥 Present - study Node.js, Java spring, Deep learning, Algorithm
+> 🔥 Present - Java spring, AI, Block chain, Algorithm
 >
 > 👍 Experience - Meteor Web project, Androidstudio App project, Python AI project
 
