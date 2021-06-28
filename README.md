@@ -8,8 +8,6 @@ Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/ma
 
 > 💻 Interest -  BackEnd Development
 >
-> 🔥 Present - Java spring, AI, Block chain, Algorithm
+> 🔥 Present - Java spring boot, Algorithm coding test, sk lookie
 >
-> 👍 Experience - Meteor Web project, Androidstudio App project, Python AI project
-
-
+> 👍 Experience - Web project, Android project, Python AI project
