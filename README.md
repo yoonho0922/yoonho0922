@@ -10,6 +10,6 @@ Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/ma
 
 > 💻 Interest -  BackEnd Development
 >
-> 🔥 Present - Java spring boot, Algorithm coding test, sk lookie project
+> 🔥 Present - Java spring boot, Algorithm
 >
 > 👍 Experience - Web project, Android project, Python AI project
