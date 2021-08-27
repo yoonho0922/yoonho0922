@@ -8,8 +8,8 @@ Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/ma
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonho0922)](https://solved.ac/yoonho0922/)
 
-> 💻 Interest -  BackEnd Development
+> 💻 Interest -  JAVA BackEnd Development
 >
-> 🔥 Present - Java spring boot, Algorithm
+> 🔥 Present - Java Spring SpringBoot, Algorithm
 >
-> 👍 Experience - Web project, Android project, Python AI project
+> 👍 Experience - Node.js : Express Meteor, JAVA : Android, Python : openCV Tensorflow
