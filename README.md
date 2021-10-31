@@ -4,8 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/yoonho-ahn-30baa5203/)](https://www.linkedin.com/in/yoonho-ahn-30baa5203/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yoon_nno/)](https://www.instagram.com/dbsgh_a/) 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonho0922)](https://solved.ac/yoonho0922/)
-
 > 💻 Interest -  JAVA BackEnd Development
 >
 > 🔥 Present - Java Spring SpringBoot, Algorithm
