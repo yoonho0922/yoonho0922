@@ -6,6 +6,6 @@
 
 > 💻 Interest -  JAVA BackEnd Development
 >
-> 🔥 Present - Java SpringBoot, Kotlin
+> 🔥 Present - Kotlin, Spring, JPA
 >
 > 👍 Experience - Node.js : Express Meteor, JAVA : Android, Python : openCV Tensorflow
