@@ -6,23 +6,19 @@
 
 휴먼지능정보공학과 전공 4.38 / 4.50
 
+2021 이공계 국가 우수 장학생 - 과학기술정보통신부
+
 ---
 
-Voithru 병역특례 산업기능요원 Bacekend-Engineer
+### Voithru
+
+병역특례 산업기능요원 Bacekend-Engineer
 
 *2021.12-2024.02*
 
 카카오 제휴 콘텐츠번역 시스템 Totus 개발 및 운영
 
 Spring, Spring Cloud, Spring R2DBC, Spring Webflux, Graphql
-
----
-
-### 2021 이공계 국가 우수 장학생
-
-*2021.08.13*
-
-과학기술정보통신부
 
 ---
 
