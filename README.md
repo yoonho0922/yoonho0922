@@ -14,7 +14,7 @@ Voithru 병역특례 산업기능요원 Bacekend-Engineer
 
 *2021.12-2024.02*
 
-카카오 픽코마 제휴 콘텐츠번역 시스템 Totus 개발 및 운영
+카카오 제휴 콘텐츠번역 시스템 Totus 개발 및 운영
 
 Spring, Spring Cloud, Spring R2DBC, Spring Webflux, Graphql
 
