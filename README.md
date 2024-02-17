@@ -8,8 +8,6 @@
 
 ---
 
-### 병역
-
 Voithru 병역특례 산업기능요원 Bacekend-Engineer
 
 *2021.12-2024.02*
