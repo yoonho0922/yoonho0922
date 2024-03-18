@@ -14,7 +14,7 @@
 
 보이스루 Bacekend-Engineer<br>
 *2021.12-2024.02*<br>
-카카오픽코마 제휴 콘텐츠번역 시스템 Totus 개발 및 운영<br>
+콘텐츠 번역 업무 관리 시스템 TMS(Translation Management System) 개발 및 운영<br>
 Spring, Spring R2DBC, Spring Webflux, Kotlin Graphql<br>
 
 ---
